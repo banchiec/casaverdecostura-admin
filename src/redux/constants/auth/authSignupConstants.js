@@ -1,0 +1,3 @@
+export const LOADING_SIGNUP = 'LOADING_SIGNUP'
+export const SUCCESS_SIGNUP = 'SUCCESS_SIGNUP'
+export const ERROR_SIGNUP = 'ERROR_SIGNUP'
